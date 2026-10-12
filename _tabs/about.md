@@ -4,5 +4,20 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## 소개
+
+사이버보안을 전공하는 학생이고, 보안 엔지니어와 클라우드·인프라 보안 직무를 목표로 하고 있습니다.
+
+이 블로그에는 직접 만든 프로젝트에서 내린 보안 판단을 기록합니다. 무엇을 막았는지, 무엇이 한계인지, 그리고 그 근거를 함께 적었습니다.
+
+## 관심 분야
+
+- 최소 권한과 다층 방어
+- 비밀값 보호
+- 데이터 무결성
+- 인프라·네트워크 보안
+- 서버 보안
+
+## 링크
+
+- GitHub: https://github.com/junjinwoo0512-code
