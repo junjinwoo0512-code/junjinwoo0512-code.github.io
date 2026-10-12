@@ -1,4 +1,3 @@
-[2026-10-12-ai-dev-guardrails.md](https://github.com/user-attachments/files/33318570/2026-10-12-ai-dev-guardrails.md)
 ---
 title: "AI 코딩 도우미가 .env를 grep한 날"
 description: "기억 대신 기계로 막는 2층 가드레일"
